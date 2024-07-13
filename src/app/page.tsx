@@ -1,5 +1,9 @@
 import Image from 'next/image';
 
 export default function Home() {
-  return <div className="container">test out container</div>;
+  return (
+    <div className="">
+      <p>test out containe</p>r
+    </div>
+  );
 }
